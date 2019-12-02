@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Add APTXUIService to the background whitelist-->
+<config>
+    <allow-in-power-save package="com.android.settings" />
+    <allow-in-background package="com.android.settings" />
+</config>

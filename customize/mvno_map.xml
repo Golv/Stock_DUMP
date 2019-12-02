@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<map>
+  <profiles key="GID1">
+    <MCCMNC name="24007">
+      <item GID1="4e4c" displayname="Tele2 NL" mapfile="204.xml" />
+      <item GID1="4e4c" displayname="Tele2 NL" mapfile="204.xml" />
+    </MCCMNC>
+    <MCCMNC name="23430">
+      <item GID1="00" displayname="EE" CNmapfile="default.prop" mapfile="23430_EE.xml" />
+      <item GID1="2ff" displayname="EE" CNmapfile="default.prop" mapfile="23430_EE.xml" />
+    </MCCMNC>
+    <MCCMNC name="23433">
+      <item GID1="00" displayname="EE" CNmapfile="default.prop" mapfile="23430_EE.xml" />
+      <item GID1="2ff" displayname="EE" CNmapfile="default.prop" mapfile="23430_EE.xml" />
+    </MCCMNC>
+  </profiles>
+</map>
